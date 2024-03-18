@@ -8,6 +8,8 @@ Question 1
 Files:          main.py - main implementation of the application
                 university.txt - 'University' database creation script
 
+Requirements:   psycopg2
+
 Run:            pip install psycopg2
                 python main.py
 
