@@ -5,6 +5,9 @@
 **TANISI DAS**
 **101216265**
 
+## Video link:
+(https://youtu.be/FNYImzVf2rQ)[https://youtu.be/FNYImzVf2rQ]
+
 ## Files:          
 - main.py - main implementation of the application
 - university.txt - 'University' database creation script
@@ -13,11 +16,10 @@
 - psycopg2
 
 ## Running the program:
-```bash
+    ```bash
     pip install psycopg2
     python main.py
 
-## Video link:
-(https://youtu.be/FNYImzVf2rQ)[https://youtu.be/FNYImzVf2rQ]
+
 
 
