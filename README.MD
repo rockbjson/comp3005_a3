@@ -13,9 +13,9 @@
 - psycopg2
 
 ## Running the program:
-  ```bash
-  pip install psycopg2
-  python main.py
+    ```bash
+    pip install psycopg2
+    python main.py
 
 ## Video link:
 (https://youtu.be/FNYImzVf2rQ)[https://youtu.be/FNYImzVf2rQ]
