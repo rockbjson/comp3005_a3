@@ -13,7 +13,7 @@
 - psycopg2
 
 ## Running the program:
-    ```bash
+```bash
     pip install psycopg2
     python main.py
 
