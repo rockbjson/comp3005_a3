@@ -1,0 +1,23 @@
+# COMP 3005
+**Assignment 3**
+**Question 1**
+
+**TANISI DAS**
+**101216265**
+
+## Files:          
+- main.py - main implementation of the application
+- university.txt - 'University' database creation script
+
+## Requirements:   
+- psycopg2
+
+## Running the program:
+  ```bash
+  pip install psycopg2
+  python main.py
+
+## Video link:
+(https://youtu.be/FNYImzVf2rQ)[https://youtu.be/FNYImzVf2rQ]
+
+
